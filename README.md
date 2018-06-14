@@ -86,7 +86,14 @@
 > **Whether creating a CMS, Backend Panel or CRM - LaraAdmin's flexible utilities has you covered.** 
 [Official website](http://laraadmin.com)
 
+## Main advantages 
+- Proper documentation
+- Free & Open source
+- 700+ commits
+- 2 years of contribution
 
+## Main disadvantage
+- Comes without any *out of the box* CRM related features.
 
 ## **Features**
 - **CRUD generation**
@@ -95,10 +102,16 @@
     - Module Routes (*admin_routes.php*)
     - Module added to *Menu*
     - Views *[index, edit, show].blade.php*
+
+    - [Docs](http://laraadmin.com/docs/migrations_cruds)
+
     > Note: This is an alternative way to generate the CRUD's. Best way to generate CRUD's is Module Manager
 - **Module Manager**
 ![alt](https://i.imgur.com/hJg40pS.png)
     - Create Modules with *name* and *icon*
     - Create/Edit module fields
     - Generate **CRUD's** + **Migration**
-# AND MUCH MORE..
+
+    - [Docs](http://laraadmin.com/docs/module_manager)
+
+# [full documentation](http://laraadmin.com/docs/1.0)
